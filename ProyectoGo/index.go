@@ -1,13 +1,14 @@
 package main
 
+
+import "C"
+
 import (
 	"math/rand"
 	"time"
 	"fmt"
 	"sync"
 )
-
-import "C"
 
 // sincronizacion de rutinas
 var wg sync.WaitGroup
@@ -98,7 +99,7 @@ func random(min int, max int) int {
 	return rand.Intn(max-min) + min
 }
 
-//export equals
+//export equal
 //funcion para igualar strings
 func equal(s1, s2 string) int {
 	eq := 0
