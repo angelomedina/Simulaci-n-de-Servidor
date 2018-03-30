@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37366d67-0cb0-44da-b3c0-524e56475340" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.go" afterPath="$PROJECT_DIR$/index.go" />
-    </list>
+    <list default="true" id="37366d67-0cb0-44da-b3c0-524e56475340" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,27 +9,38 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ProyectoGo" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
-                <element signature="e#15#73#0" expanded="true" />
-                <element signature="e#425#491#0" expanded="false" />
-                <element signature="n#!!block;n#cargaPaquetesAutos#0" expanded="false" />
-                <element signature="n#!!block;n#caragarRutas#0" expanded="false" />
-                <element signature="n#!!block;n#random#0" expanded="false" />
-                <element signature="n#!!block;n#equal#0" expanded="false" />
-                <element signature="n#!!block;n#servidor#0" expanded="false" />
-                <element signature="n#!!block;n#lenghtCola#0" expanded="false" />
-                <element signature="n#!!block;n#solicitudCola#0" expanded="false" />
-                <element signature="n#!!block;n#respuestaCola#0" expanded="false" />
-                <element signature="e#4623#4966#0" expanded="false" />
-                <marker date="1521488587154" expanded="false" signature="34:73" ph="..." />
+                <element signature="e#14#166#0" expanded="true" />
+                <element signature="e#521#587#0" />
+                <element signature="n#!!block;n#cargaPaquetesAutos#0" />
+                <element signature="n#!!block;n#caragarRutas#0" />
+                <element signature="n#!!block;n#random#0" />
+                <element signature="n#!!block;n#equal#0" />
+                <element signature="n#!!block;n#servidor#0" />
+                <element signature="n#!!block;n#lenghtCola#0" />
+                <element signature="n#!!block;n#solicitudCola#0" />
+                <element signature="n#!!block;n#respuestaCola#0" />
+                <element signature="e#4719#5062#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.h" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -48,13 +56,10 @@
     </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
   <component name="GoLibraries">
     <option name="urls">
       <list>
-        <option value="file://E:/Doccumentos TEC/5 SEMESTRE 2018/LENGUAJES/Practicas Go/ProyectoGo" />
+        <option value="file://C:/TDM-GCC-64/lib/gcc" />
       </list>
     </option>
   </component>
@@ -74,35 +79,39 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProyectoGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProyectoGo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
-    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/GitKraken/Simulaci-n-de-Servidor/ProyectoGo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -157,46 +166,53 @@
       <filePath value="$PROJECT_DIR$/.idea/pruebas.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Go Build.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Go Build.go build prueba.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Build.go build index.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Build.go build pruebas.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Build.go build pruebas.go (1)" />
+    <list>
+      <item itemvalue="Go Build.Unnamed" />
+      <item itemvalue="Go Build.go build prueba.go" />
+      <item itemvalue="Go Build.go build index.go" />
+      <item itemvalue="Go Build.go build pruebas.go" />
+      <item itemvalue="Go Build.go build pruebas.go (1)" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Go Build.go build index.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Build.go build pruebas.go (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Go Build.go build pruebas.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Build.go build prueba.go" />
+      <list>
+        <item itemvalue="Go Build.go build index.go" />
+        <item itemvalue="Go Build.go build pruebas.go (1)" />
+        <item itemvalue="Go Build.go build pruebas.go" />
+        <item itemvalue="Go Build.go build prueba.go" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8388158" sideWeight="0.5060514" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8388158" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967105" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.522694" side_tool="true" weight="0.5895404" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49394855" weight="0.83828384" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.477306" visible="true" weight="0.5874587" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32980332" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39967105" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,180 +225,202 @@
     <breakpoint-manager>
       <option name="time" value="49" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
-            <element signature="e#15#73#0" expanded="true" />
-            <element signature="e#425#491#0" expanded="false" />
-            <element signature="n#!!block;n#cargaPaquetesAutos#0" expanded="false" />
-            <element signature="n#!!block;n#caragarRutas#0" expanded="false" />
-            <element signature="n#!!block;n#random#0" expanded="false" />
-            <element signature="n#!!block;n#equal#0" expanded="false" />
-            <element signature="n#!!block;n#servidor#0" expanded="false" />
-            <element signature="n#!!block;n#lenghtCola#0" expanded="false" />
-            <element signature="n#!!block;n#solicitudCola#0" expanded="false" />
-            <element signature="n#!!block;n#respuestaCola#0" expanded="false" />
-            <element signature="e#4623#4966#0" expanded="false" />
-            <marker date="1521488587154" expanded="false" signature="34:73" ph="..." />
+            <element signature="e#14#166#0" expanded="true" />
+            <element signature="e#521#587#0" />
+            <element signature="n#!!block;n#cargaPaquetesAutos#0" />
+            <element signature="n#!!block;n#caragarRutas#0" />
+            <element signature="n#!!block;n#random#0" />
+            <element signature="n#!!block;n#equal#0" />
+            <element signature="n#!!block;n#servidor#0" />
+            <element signature="n#!!block;n#lenghtCola#0" />
+            <element signature="n#!!block;n#solicitudCola#0" />
+            <element signature="n#!!block;n#respuestaCola#0" />
+            <element signature="e#4719#5062#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding>
-            <element signature="e#15#73#0" expanded="true" />
-            <element signature="e#425#491#0" expanded="false" />
-            <element signature="n#!!block;n#cargaPaquetesAutos#0" expanded="false" />
-            <element signature="n#!!block;n#caragarRutas#0" expanded="false" />
-            <element signature="n#!!block;n#random#0" expanded="false" />
-            <element signature="n#!!block;n#equal#0" expanded="false" />
-            <element signature="n#!!block;n#servidor#0" expanded="false" />
-            <element signature="n#!!block;n#lenghtCola#0" expanded="false" />
-            <element signature="n#!!block;n#solicitudCola#0" expanded="false" />
-            <element signature="n#!!block;n#respuestaCola#0" expanded="false" />
-            <element signature="e#4623#4966#0" expanded="false" />
-            <marker date="1521488587154" expanded="false" signature="34:73" ph="..." />
+            <element signature="e#14#166#0" expanded="true" />
+            <element signature="e#521#587#0" />
+            <element signature="n#!!block;n#cargaPaquetesAutos#0" />
+            <element signature="n#!!block;n#caragarRutas#0" />
+            <element signature="n#!!block;n#random#0" />
+            <element signature="n#!!block;n#equal#0" />
+            <element signature="n#!!block;n#servidor#0" />
+            <element signature="n#!!block;n#lenghtCola#0" />
+            <element signature="n#!!block;n#solicitudCola#0" />
+            <element signature="n#!!block;n#respuestaCola#0" />
+            <element signature="e#4719#5062#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding>
-            <element signature="e#15#73#0" expanded="true" />
-            <element signature="e#425#491#0" expanded="false" />
-            <element signature="n#!!block;n#cargaPaquetesAutos#0" expanded="false" />
-            <element signature="n#!!block;n#caragarRutas#0" expanded="false" />
-            <element signature="n#!!block;n#random#0" expanded="false" />
-            <element signature="n#!!block;n#equal#0" expanded="false" />
-            <element signature="n#!!block;n#servidor#0" expanded="false" />
-            <element signature="n#!!block;n#lenghtCola#0" expanded="false" />
-            <element signature="n#!!block;n#solicitudCola#0" expanded="false" />
-            <element signature="n#!!block;n#respuestaCola#0" expanded="false" />
-            <element signature="e#4623#4966#0" expanded="false" />
-            <marker date="1521488587154" expanded="false" signature="34:73" ph="..." />
+            <element signature="e#14#166#0" expanded="true" />
+            <element signature="e#521#587#0" />
+            <element signature="n#!!block;n#cargaPaquetesAutos#0" />
+            <element signature="n#!!block;n#caragarRutas#0" />
+            <element signature="n#!!block;n#random#0" />
+            <element signature="n#!!block;n#equal#0" />
+            <element signature="n#!!block;n#servidor#0" />
+            <element signature="n#!!block;n#lenghtCola#0" />
+            <element signature="n#!!block;n#solicitudCola#0" />
+            <element signature="n#!!block;n#respuestaCola#0" />
+            <element signature="e#4719#5062#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding>
-            <element signature="e#15#73#0" expanded="true" />
-            <element signature="e#425#491#0" expanded="false" />
-            <element signature="n#!!block;n#cargaPaquetesAutos#0" expanded="false" />
-            <element signature="n#!!block;n#caragarRutas#0" expanded="false" />
-            <element signature="n#!!block;n#random#0" expanded="false" />
-            <element signature="n#!!block;n#equal#0" expanded="false" />
-            <element signature="n#!!block;n#servidor#0" expanded="false" />
-            <element signature="n#!!block;n#lenghtCola#0" expanded="false" />
-            <element signature="n#!!block;n#solicitudCola#0" expanded="false" />
-            <element signature="n#!!block;n#respuestaCola#0" expanded="false" />
-            <element signature="e#4623#4966#0" expanded="false" />
-            <marker date="1521488587154" expanded="false" signature="34:73" ph="..." />
+            <element signature="e#14#166#0" expanded="true" />
+            <element signature="e#521#587#0" />
+            <element signature="n#!!block;n#cargaPaquetesAutos#0" />
+            <element signature="n#!!block;n#caragarRutas#0" />
+            <element signature="n#!!block;n#random#0" />
+            <element signature="n#!!block;n#equal#0" />
+            <element signature="n#!!block;n#servidor#0" />
+            <element signature="n#!!block;n#lenghtCola#0" />
+            <element signature="n#!!block;n#solicitudCola#0" />
+            <element signature="n#!!block;n#respuestaCola#0" />
+            <element signature="e#4719#5062#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#14#166#0" expanded="true" />
+            <element signature="e#521#587#0" />
+            <element signature="n#!!block;n#cargaPaquetesAutos#0" />
+            <element signature="n#!!block;n#caragarRutas#0" />
+            <element signature="n#!!block;n#random#0" />
+            <element signature="n#!!block;n#equal#0" />
+            <element signature="n#!!block;n#servidor#0" />
+            <element signature="n#!!block;n#lenghtCola#0" />
+            <element signature="n#!!block;n#solicitudCola#0" />
+            <element signature="n#!!block;n#respuestaCola#0" />
+            <element signature="e#4719#5062#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#14#166#0" expanded="true" />
+            <element signature="e#521#587#0" />
+            <element signature="n#!!block;n#cargaPaquetesAutos#0" />
+            <element signature="n#!!block;n#caragarRutas#0" />
+            <element signature="n#!!block;n#random#0" />
+            <element signature="n#!!block;n#equal#0" />
+            <element signature="n#!!block;n#servidor#0" />
+            <element signature="n#!!block;n#lenghtCola#0" />
+            <element signature="n#!!block;n#solicitudCola#0" />
+            <element signature="n#!!block;n#respuestaCola#0" />
+            <element signature="e#4719#5062#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pruebas.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state>
+          <caret selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding>
-            <element signature="e#15#73#0" expanded="true" />
-            <element signature="e#425#491#0" expanded="false" />
-            <element signature="n#!!block;n#cargaPaquetesAutos#0" expanded="false" />
-            <element signature="n#!!block;n#caragarRutas#0" expanded="false" />
-            <element signature="n#!!block;n#random#0" expanded="false" />
-            <element signature="n#!!block;n#equal#0" expanded="false" />
-            <element signature="n#!!block;n#servidor#0" expanded="false" />
-            <element signature="n#!!block;n#lenghtCola#0" expanded="false" />
-            <element signature="n#!!block;n#solicitudCola#0" expanded="false" />
-            <element signature="n#!!block;n#respuestaCola#0" expanded="false" />
-            <element signature="e#4623#4966#0" expanded="false" />
-            <marker date="1521488587154" expanded="false" signature="34:73" ph="..." />
+            <element signature="e#14#166#0" expanded="true" />
+            <element signature="e#521#587#0" />
+            <element signature="n#!!block;n#cargaPaquetesAutos#0" />
+            <element signature="n#!!block;n#caragarRutas#0" />
+            <element signature="n#!!block;n#random#0" />
+            <element signature="n#!!block;n#equal#0" />
+            <element signature="n#!!block;n#servidor#0" />
+            <element signature="n#!!block;n#lenghtCola#0" />
+            <element signature="n#!!block;n#solicitudCola#0" />
+            <element signature="n#!!block;n#respuestaCola#0" />
+            <element signature="e#4719#5062#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding>
-            <element signature="e#15#73#0" expanded="true" />
-            <element signature="e#425#491#0" expanded="false" />
-            <element signature="n#!!block;n#cargaPaquetesAutos#0" expanded="false" />
-            <element signature="n#!!block;n#caragarRutas#0" expanded="false" />
-            <element signature="n#!!block;n#random#0" expanded="false" />
-            <element signature="n#!!block;n#equal#0" expanded="false" />
-            <element signature="n#!!block;n#servidor#0" expanded="false" />
-            <element signature="n#!!block;n#lenghtCola#0" expanded="false" />
-            <element signature="n#!!block;n#solicitudCola#0" expanded="false" />
-            <element signature="n#!!block;n#respuestaCola#0" expanded="false" />
-            <element signature="e#4623#4966#0" expanded="false" />
-            <marker date="1521488587154" expanded="false" signature="34:73" ph="..." />
+            <element signature="e#14#166#0" expanded="true" />
+            <element signature="e#521#587#0" />
+            <element signature="n#!!block;n#cargaPaquetesAutos#0" />
+            <element signature="n#!!block;n#caragarRutas#0" />
+            <element signature="n#!!block;n#random#0" />
+            <element signature="n#!!block;n#equal#0" />
+            <element signature="n#!!block;n#servidor#0" />
+            <element signature="n#!!block;n#lenghtCola#0" />
+            <element signature="n#!!block;n#solicitudCola#0" />
+            <element signature="n#!!block;n#respuestaCola#0" />
+            <element signature="e#4719#5062#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding>
-            <element signature="e#15#73#0" expanded="true" />
-            <element signature="e#425#491#0" expanded="false" />
-            <element signature="n#!!block;n#cargaPaquetesAutos#0" expanded="false" />
-            <element signature="n#!!block;n#caragarRutas#0" expanded="false" />
-            <element signature="n#!!block;n#random#0" expanded="false" />
-            <element signature="n#!!block;n#equal#0" expanded="false" />
-            <element signature="n#!!block;n#servidor#0" expanded="false" />
-            <element signature="n#!!block;n#lenghtCola#0" expanded="false" />
-            <element signature="n#!!block;n#solicitudCola#0" expanded="false" />
-            <element signature="n#!!block;n#respuestaCola#0" expanded="false" />
-            <element signature="e#4623#4966#0" expanded="false" />
-            <marker date="1521488587154" expanded="false" signature="34:73" ph="..." />
+            <element signature="e#14#166#0" expanded="true" />
+            <element signature="e#521#587#0" />
+            <element signature="n#!!block;n#cargaPaquetesAutos#0" />
+            <element signature="n#!!block;n#caragarRutas#0" />
+            <element signature="n#!!block;n#random#0" />
+            <element signature="n#!!block;n#equal#0" />
+            <element signature="n#!!block;n#servidor#0" />
+            <element signature="n#!!block;n#lenghtCola#0" />
+            <element signature="n#!!block;n#solicitudCola#0" />
+            <element signature="n#!!block;n#respuestaCola#0" />
+            <element signature="e#4719#5062#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding>
-            <element signature="e#15#73#0" expanded="true" />
-            <element signature="e#425#491#0" expanded="false" />
-            <element signature="n#!!block;n#cargaPaquetesAutos#0" expanded="false" />
-            <element signature="n#!!block;n#caragarRutas#0" expanded="false" />
-            <element signature="n#!!block;n#random#0" expanded="false" />
-            <element signature="n#!!block;n#equal#0" expanded="false" />
-            <element signature="n#!!block;n#servidor#0" expanded="false" />
-            <element signature="n#!!block;n#lenghtCola#0" expanded="false" />
-            <element signature="n#!!block;n#solicitudCola#0" expanded="false" />
-            <element signature="n#!!block;n#respuestaCola#0" expanded="false" />
-            <element signature="e#4623#4966#0" expanded="false" />
-            <marker date="1521488587154" expanded="false" signature="34:73" ph="..." />
+            <element signature="e#14#166#0" expanded="true" />
+            <element signature="e#521#587#0" />
+            <element signature="n#!!block;n#cargaPaquetesAutos#0" />
+            <element signature="n#!!block;n#caragarRutas#0" />
+            <element signature="n#!!block;n#random#0" />
+            <element signature="n#!!block;n#equal#0" />
+            <element signature="n#!!block;n#servidor#0" />
+            <element signature="n#!!block;n#lenghtCola#0" />
+            <element signature="n#!!block;n#solicitudCola#0" />
+            <element signature="n#!!block;n#respuestaCola#0" />
+            <element signature="e#4719#5062#0" />
           </folding>
         </state>
       </provider>
@@ -398,49 +436,60 @@
     <entry file="file://C:/Go/src/sync/waitgroup.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
-          <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Go/src/runtime/sema.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Go/src/runtime/panic.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
-          <caret line="590" column="0" lean-forward="false" selection-start-line="590" selection-start-column="0" selection-end-line="590" selection-end-column="0" />
+          <caret line="590" selection-start-line="590" selection-end-line="590" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pruebas.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state>
+          <caret selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
-            <element signature="e#15#73#0" expanded="true" />
-            <element signature="e#425#491#0" expanded="false" />
-            <element signature="n#!!block;n#cargaPaquetesAutos#0" expanded="false" />
-            <element signature="n#!!block;n#caragarRutas#0" expanded="false" />
-            <element signature="n#!!block;n#random#0" expanded="false" />
-            <element signature="n#!!block;n#equal#0" expanded="false" />
-            <element signature="n#!!block;n#servidor#0" expanded="false" />
-            <element signature="n#!!block;n#lenghtCola#0" expanded="false" />
-            <element signature="n#!!block;n#solicitudCola#0" expanded="false" />
-            <element signature="n#!!block;n#respuestaCola#0" expanded="false" />
-            <element signature="e#4623#4966#0" expanded="false" />
-            <marker date="1521488587154" expanded="false" signature="34:73" ph="..." />
+            <element signature="e#14#166#0" expanded="true" />
+            <element signature="e#521#587#0" />
+            <element signature="n#!!block;n#cargaPaquetesAutos#0" />
+            <element signature="n#!!block;n#caragarRutas#0" />
+            <element signature="n#!!block;n#random#0" />
+            <element signature="n#!!block;n#equal#0" />
+            <element signature="n#!!block;n#servidor#0" />
+            <element signature="n#!!block;n#lenghtCola#0" />
+            <element signature="n#!!block;n#solicitudCola#0" />
+            <element signature="n#!!block;n#respuestaCola#0" />
+            <element signature="e#4719#5062#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.so">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1173" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>

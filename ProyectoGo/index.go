@@ -1,7 +1,9 @@
 package main
 
-
 import "C"
+
+//import ("github.com/angelomedina/Simulaci-n-de-Servidor/blob/master/ProyectoGo/index.go")
+
 
 import (
 	"math/rand"
@@ -9,6 +11,7 @@ import (
 	"fmt"
 	"sync"
 )
+
 
 // sincronizacion de rutinas
 var wg sync.WaitGroup
@@ -246,3 +249,5 @@ func main() {
 		servidor();
 	}
 }
+
+// See https://github.com/angelomedina/Simulaci-n-de-Servidor/blob/master/ProyectoGo/index.go
